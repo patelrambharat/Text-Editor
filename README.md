@@ -12,7 +12,6 @@
 
 # **Text editor Building UI**
 * we will be creating a basic UI for a text editor project in Java using Java Swing components.
-* In the previous video, we discussed the design for the text editor window application.
 * We are creating a new project in Intellij for the text editor and naming it text data".
 * We select Java as the language and Intellij as the build system, and choose Open JDK 8 as the preferred JDK version.
 * we refactor the main class to be called "text editor".
